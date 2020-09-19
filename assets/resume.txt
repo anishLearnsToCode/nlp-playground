@@ -1,0 +1,102 @@
+Anish Sachdeva
+Software Developer + Clean Code Enthusiast
+
+Phone : 8287428181
+email : anish_@outlook.com
+home : sandesh vihar, pitampura, new delhi - 110034
+date of birth : 7th April 1998
+languages : English, Hindi, French
+
+Work Experience
+What After College (4 months)
+Delhi, India
+Creating content to teach Core Java and Python with Data Structures and Algorithms and giving online classes to students.
+Giving Python classes workshops to students all around India and teaching core data structures and the Python API
+with emphasis on Data Structures, Algorithms and Problem Solving. See a sample python batch here:
+https://github.com/anishLearnsToCode/python-workshop-6
+
+Also teaching Java to students in Batches of 10 days, where the full Java API and data types are covered along with many
+important algorithms are aso taught. See a sample Java batch here: https://github.com/anishLearnsToCode/java-wac-batch-32
+
+Summer Research Fellow at University of Auckland (2 Months)
+Auckland, New Zealand
+Worked on Geometry of Mobius Transformations, Differential Geometry under Dr. Pedram Hekmati at the Department of
+Mathematics, University of Auckland. Worked on various topics in mathematics such as abelian Group theory,
+Measure Theory, Graph Theory and Differential Geometry.
+
+Attended lectures and conferences with notable speakers from throughout Academia and the Industry. Met up with Ed Witten
+who is currently at the Forefront of Applied Mathematics in Physics and Mathematical Topology in Higher dimensional
+spaces.
+
+Met with scientist from Microsoft Quantum Research that are working on cutting edge research and using foundational
+group theory and Mobius Transformations in real world practical applications.
+
+Software Developer at CERN (14 Months)
+CERN, Geneva, Switzerland
+Worked in the core Platforms team of the FAP-BC group. Part of an agile team of developers that maintains and adds core
+functionality to applications used internally at CERN by HR, Financial, Administrative and other departments including
+Scientific.
+
+Worked on legacy applications that comprise of single and some times multiple frameworks such as Java Spring, Boot,
+Hibernate and Java EE. Also worked with Google Polymer 1.0 and JSP on the client side.
+
+Maintained CERN's Electronic Document Handing System application with >1M LOC that comprising of multiple frameworks
+and created ~20 years ago. Worked on feature requests, support requests and incidents and also release cycles.
+
+While at CERN, i also engaged socially and participated in self growth outside the work environment. I was part of the
+department band as lead singer and guitarist. I also worked on my french and learnt it till A2 level. I participated
+in many workshops, and volunteered as a participant and helper in many activities related to Programming, Robotics
+etc.
+
+Teaching Assistant (4 Months)
+Coding Ninjas, Delhi
+Served as the teaching assistant to Nucleus - Java with DS batch, under Mr. Ankur Kumar. Worked on creating course
+content and quizzes for online platform of Coding Ninjas for Java. Helped students in core Data Structures and Algorithms
+concepts in Java.
+
+Education
+Delhi Technological University (2016 - 2021)
+Bachelors of Technology Mathematics and Computing
+CGPA: 9.2
+
+The Heritage School Rohini (2004 - 2016)
+Physics, Chemistry, Maths + Computer Science with English
+Senior Secondary: 94.8%
+Secondary: 9.8 CGPA
+
+Technical Skills
+Java + Algorithms and Data Structures
+MEAN Stack Web Development
+Python + Machine Learning
+MATLAB + Octave
+MySQL, PostgresSQL & MongoDB
+
+Other Skills
+MS Office, Adobe Photoshop, LaTeX + MiTeX
+
+University Courses
+Applied Mathematics I, II, III
+Linear Algebra + Probability & Statistics + Stochastic Processes + Discrete Maths
+Computer Organization & Architecture + Data Structures + Algorithm Design and Analysis + DBMS + OS
+Computer Vision + NLP
+
+Important Links
+https://www.linkedin.com/in/anishsachdeva1998/
+https://github.com/anishLearnsToCode
+https://www.hackerrank.com/anishviewer
+
+Honours and Awards
+MITACS Globalink Scholarship Cohort of 2020
+Summer Research Fellowship University of Auckland Mathematics Department
+Technical Student @ CERN
+Google India Challenge Scholarship
+
+Certifications
+Trinity College of London Plectrum Guitar Grade 4 (Distinction)
+Trinity College of London Plectrum Guitar Grade 3 (Merit)
+Trinity College of London Plectrum Guitar Grade 2 (Distinction)
+Trinity College of London Plectrum Guitar Grade 1 (Distinction)
+French A2.1 Level from CERN
+Java Data Structures and Algorithms @ Coding Ninjas
+Web Development with Ruby on Rails @ Coding Ninjas
+Competitive Programming @ Coding Ninjas
