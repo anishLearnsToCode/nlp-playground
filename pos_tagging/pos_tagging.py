@@ -1,7 +1,9 @@
+# https://www.nltk.org/book/ch05.html
+
 import nltk
 from nltk.corpus import wordnet
 # nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
+# nltk.download('averaged_perceptron_tagger')
 
 # importing the document
 # resume = open('../assets/resume.txt', 'r')
