@@ -3,6 +3,9 @@ from collections import Counter
 import nltk
 import pandas
 import pickle
+from nltk.corpus import stopwords
+
+stopwords_en = set(stopwords.words('english'))
 
 # loading the document
 resume = open('../assets/resume.txt', 'r')
@@ -12,6 +15,9 @@ resume.close()
 # tokenizing the document
 tokenizer = nltk.RegexpTokenizer(r'\w+')
 tokens = tokenizer.tokenize(document)
+
+# removing stop words from tokens
+tokens = [token for token in tokens if token not in stopwords_en and token.isalpha()]
 
 # divide the document into n parts
 documents = []
