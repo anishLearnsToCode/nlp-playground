@@ -2,10 +2,11 @@ from collections import Counter
 
 import nltk
 import pandas
+import pickle
 
 # loading the document
 resume = open('../assets/resume.txt', 'r')
-document = resume.read()
+document = resume.read().lower()
 resume.close()
 
 # tokenizing the document
@@ -43,4 +44,9 @@ print(table.to_string())
 # saving the output into text file
 file = open('one-hot-vector.txt', 'w')
 file.write(table.to_string())
+file.close()
+
+# saving the vectors so they can be used later on
+file = open('one-hot-vector.p', 'wb')
+pickle.dump(vectors, file)
 file.close()

@@ -1,6 +1,7 @@
 # Term Frequency Inverse Document Frequency Bag of Words Representation
 
 import math
+import pickle
 from collections import Counter
 
 import nltk
@@ -8,7 +9,7 @@ import pandas
 
 # loading the document
 resume = open('../assets/resume.txt', 'r')
-document = resume.read()
+document = resume.read().lower()
 resume.close()
 
 # tokenizing the document
@@ -58,4 +59,9 @@ print(table.to_string())
 # saving the output into text file
 file = open('tf-idf.txt', 'w')
 file.write(table.to_string())
+file.close()
+
+# saving the vectors in pickle file
+file = open('tf-idf.p', 'wb')
+pickle.dump(vectors, file)
 file.close()
